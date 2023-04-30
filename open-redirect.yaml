@@ -27,6 +27,7 @@ requests:
       - "{{BaseURL}}/?out=http://evil.com"
       - "{{BaseURL}}/?login=http://evil.com"
       - "{{BaseURL}}/?reach=http://evil.com"
+      - "{{BaseURL}}/?redirect_to=http://evil.com"
       - "{{BaseURL}}/?route=http://evil.com"
       - "{{BaseURL}}/?reroute=http://evil.com"
       - "{{BaseURL}}/?domain=http://evil.com"
